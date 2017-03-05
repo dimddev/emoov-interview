@@ -4,5 +4,5 @@
 from src.book import BooksGenerator
 
 if __name__ == '__main__':
-    BOOKS = BooksGenerator(20, (550, 670)).process()
+    BOOKS = BooksGenerator(10000, (550, 670)).process()
 

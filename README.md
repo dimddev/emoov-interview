@@ -16,7 +16,7 @@ To start the book reader, just type:
 
     python3 ./book_reader.py
 
-by default in out book directory are two files that comes with the task it self.
+by default in a book directory are two files that comes with the task it self.
 
 To generate a book:
 

@@ -22,7 +22,7 @@ To generate a book:
 
     python3 ./book_generator.py
 
-The 'Mouse Beep' taks required external package with name `xdotool`. After I spend some time in researching, seems this way is the predered one, when we want to
+The 'Mouse Beep' taks required external package with name `xdotool`. After I spend some time in researching, seems this way is the prefered one, when we want to
 get this scanarion worked in the shell. Also you should hearing a 'beep' sound only if your computer has internal speaker. To start the script type:
 
     python3 ./beep.py

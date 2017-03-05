@@ -188,7 +188,6 @@ class BooksGenerator:
                             file_fd.write(line)
                             chapter_buffer = list()
 
-            with open('book/emoov-book.txt', 'a') as file_fd:
                 file_fd.write('\n\n')
             file_fd.close()
 

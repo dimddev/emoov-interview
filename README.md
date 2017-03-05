@@ -8,7 +8,7 @@
 
 For code review look inside `src` directory it is the place where the code living.
 There are few modules that implementing the decorators problem, the generators issues, the book task and the 'Mouse Beep'
-After you are cloned the project you can start some tests with:
+After you have are cloned the project you can start some tests with:
 
     python3 -m unittest tests/test_decorators.py
 
@@ -16,7 +16,7 @@ To start the book reader, just type:
 
     python3 ./book_reader.py
 
-by default in out book directory are two files that comes with the task it self.
+by default in a book directory are two files that comes with the task it self.
 
 To generate a book:
 

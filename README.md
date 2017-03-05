@@ -23,7 +23,13 @@ To generate a book:
     python3 ./book_generator.py
 
 The 'Mouse Beep' task required external package with name `xdotool`. After I spend some time in researching, seems this way is the prefered one, when we want to
-get this scanario worked in the shell. Also you should hear a 'beep' sound, only if your computer has internal speaker. To start the script type:
+get this scanario worked in the shell. 
+
+To intall it on Ubuntu:
+
+    sudo apt-get intall xdotool
+
+Also you should hear a 'beep' sound, only if your computer has internal speaker. To start the script type:
 
     python3 ./beep.py
 
